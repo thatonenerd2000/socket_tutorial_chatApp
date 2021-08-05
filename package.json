@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/thatonenerd2000/socket_tutorial_chatApp/issues"
   },
-  "homepage": "https://github.com/thatonenerd2000/socket_tutorial_chatApp#readme"
+  "homepage": "https://github.com/thatonenerd2000/socket_tutorial_chatApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
 }
