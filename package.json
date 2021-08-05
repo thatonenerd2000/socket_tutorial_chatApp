@@ -1,0 +1,19 @@
+{
+  "name": "socket_tutorial_chatapp",
+  "version": "1.0.0",
+  "description": "Just following socket tutorial to make a chatApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatonenerd2000/socket_tutorial_chatApp.git"
+  },
+  "author": "Shadman Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatonenerd2000/socket_tutorial_chatApp/issues"
+  },
+  "homepage": "https://github.com/thatonenerd2000/socket_tutorial_chatApp#readme"
+}
